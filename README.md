@@ -1,4 +1,4 @@
-# snippets-PBO-02
+# snippets-PBO
 
 Repository ini berisi snippet kode program yang ada pada materi PBO.
 
